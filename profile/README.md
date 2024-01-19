@@ -7,4 +7,6 @@
 
 - [r/place 2](https://github.com/rplacetk/rslashplace2.github.io): Client and bun game server software.
 - [canvas1](https://github.com/rplacetk/canvas1): Main site rplace.live canvas backups
+- [RplaceServer](https://github.com/rplacetk/RplaceServer): Alternative C# server software - Zekiah-A
+
 (c) Zekiah-A, BlobKat
